@@ -1,4 +1,7 @@
 # 👋 Olá, eu sou Leonardo Castilho
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Native+Enthusiast;Automation+%7C+Containers+%7C+SRE)](https://git.io/typing-svg)
+
+
 
 💻 DevOps Engineer  
 🚀 Focado em Linux | Docker | Kubernetes | Observabilidade  
