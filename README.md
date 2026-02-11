@@ -37,9 +37,9 @@ Busco criar ambientes resilientes, escaláveis e monitoráveis, sempre aplicando
 
 ## 📊 Estatísticas
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=CASTILHOPDEV&show_icons=true&theme=tokyonight)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=castilhopdev-source&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CASTILHOPDEV&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castilhopdev-source&layout=compact&theme=tokyonight)
 
 ---
 
