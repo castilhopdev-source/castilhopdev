@@ -37,13 +37,12 @@ Busco criar ambientes resilientes, escaláveis e monitoráveis, sempre aplicando
 
 ## 📊 Estatísticas
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=CASTILHOPDEV&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CASTILHOPDEV&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/leonardo-castilho-pimentel-794a101a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-castilho-pimentel-794a101a4)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:castilhop.dev@gmail.com)
