@@ -11,7 +11,7 @@ Focado em Linux | Docker | Kubernetes | Observabilidade
 
 ## Sobre mim
 
-Sou apaixonado por automação, infraestrutura como código e cultura DevOps.  
+Gosto de criar automações, infraestrutura como código e cultura DevOps.  
 Busco criar ambientes resilientes, escaláveis e monitoráveis, sempre aplicando boas práticas de SRE e Cloud Native.
 
 ---
